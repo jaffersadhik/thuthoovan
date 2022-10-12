@@ -1,0 +1,5 @@
+version: "3.9"
+services:
+  buildapi:
+    image: thoothuvan_buildapi:1.0       
+    build: buildapi
